@@ -87,7 +87,7 @@ The plot will show:
 
 ![image](https://github.com/user-attachments/assets/16ff9981-7723-4128-b100-b883584f34b7)
 
-![image](https://github.com/user-attachments/assets/82986583-2b73-4026-8687-5eec223f146c)
+![image](https://github.com/user-attachments/assets/cbdb834b-a4f2-4ad8-a6e7-590828f26840)
 
 ![Figure 14](https://github.com/user-attachments/assets/98f95207-b3f0-4cf2-a2b0-bb1c2764f293)
 
